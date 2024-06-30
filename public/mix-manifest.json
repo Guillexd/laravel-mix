@@ -1,0 +1,8 @@
+{
+    "/js//js/app.js": "/js//js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/manifest.js": "/js/manifest.js",
+    "/js//js/vendor.js": "/js//js/vendor.js",
+    "/js/example-component.js": "/js/example-component.js",
+    "/js/page-component.js": "/js/page-component.js"
+}
