@@ -17,6 +17,7 @@ mix.js('resources/js/app.js', 'public/js')
     .sourceMaps()
     .webpackConfig({
         output: {
+            // chunkFilename: "js/[name]-[hash].js",
             chunkFilename: "js/[name].js",
         },
     });
